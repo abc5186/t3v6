@@ -353,16 +353,17 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 
 湖北频道,#genre#
 公共新闻,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/.m3u8
+湖北综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/.m3u8
 湖北经视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/.m3u8
 湖北影视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/.m3u8
-湖北综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/.m3u8
 湖北教育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/.m3u8
 湖北生活,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/.m3u8
 湖北垄上,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/.m3u8
-湖北生活,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/.m3u8
 
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉新闻,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
+
 宜昌综合,https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
 三峡旅游,https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
@@ -517,6 +518,10 @@ SITV频道,#genre#
 其它频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 山东枣庄,http://stream.zztvzd.com/3/sd/live.m3u8
+
+兵团五师双河影视,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
+兵团十二师综合,https://liveout.btzx.com.cn/62ds9e/454mm6.m3u8
+
 
 动漫卡通,#genre#
 动漫卡通,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/.m3u8
