@@ -525,9 +525,9 @@ SITV频道,#genre#
 
 BRTV北京卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226698/.m3u8
 
-北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/1.m3u8
-北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/1.m3u8
-北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028380/1.m3u8
+BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/1.m3u8
+BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/1.m3u8
+BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028380/1.m3u8
 
 湖南金鹰纪实,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226666/.m3u8
 湖南茶频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226679/.m3u8
@@ -549,7 +549,7 @@ BRTV北京卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122669
 
 CHC等频道,#genre#
 CHC动作电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/.m3u8
-CHC家庭电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/.m3u8
+CHC家庭影院,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/.m3u8
 CHC影迷电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226681/.m3u8
 CCTV 4K超高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226737/.m3u8
 CCTV 4K超高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226766/.m3u8
@@ -563,6 +563,12 @@ CCTV风云音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122671
 CCTV世界地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/.m3u8
 CCTV兵器科技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/.m3u8
 CCTV女性时尚,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226730/.m3u8
+
+动漫卡通等,#genre#
+BRTV少儿,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/.m3u8
+金鹰卡通,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226715/.m3u8
+新动漫,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226670/.m3u8
+
 晴彩竞技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226580/.m3u8
 晴彩篮球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226582/.m3u8
 先锋乒羽,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226668/.m3u8
@@ -573,10 +579,5 @@ CCTV女性时尚,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122673
 武术世界,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226707/.m3u8
 文物宝库,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226714/.m3u8
 老故事,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/.m3u8
-上海五星体育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226151/.m3u8
+五星体育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226151/.m3u8
 
-
-动漫卡通,#genre#
-BRTV少儿,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/.m3u8
-金鹰卡通,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226715/.m3u8
-新动漫,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226670/.m3u8
