@@ -605,11 +605,9 @@ BRTV少儿,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/.m3u
 
 睛彩竞技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226580/.m3u8
 睛彩篮球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226582/.m3u8
-先锋乒羽,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226668/.m3u8
 四海钓鱼,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226662/.m3u8
 快乐垂钓,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226671/.m3u8
 汽摩频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226733/.m3u8
-武术世界,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226707/.m3u8
 文物宝库,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226714/.m3u8
 先锋乒羽,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226668/.m3u8
-
+武术世界,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226707/.m3u8
