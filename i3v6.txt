@@ -371,12 +371,17 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 湖北生活,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/.m3u8
 湖北垄上,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/.m3u8
 
-武汉综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉科技,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
 
 宜昌综合,https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
 三峡旅游,https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
+长阳综合,https://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1735660799-0-0-f8867ea6ca06a65bdf95048518db1f6a
+当阳综合,https://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1735660799-0-0-f8e56d713bf81af226bae8057d9a1bad
+五峰综合,https://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
+宜都综合,https://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1735660799-0-0-f29f0d99f876e49e55132b30d52133db
+枝江综合,https://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
 
 黄冈综合,http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
 黄冈生活,http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
@@ -389,11 +394,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 
 咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
 咸宁经济,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1735660799-0-0-d81f4b2fc33920d8341033fef8dcfd16
-长阳综合,https://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1735660799-0-0-f8867ea6ca06a65bdf95048518db1f6a
-当阳综合,https://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1735660799-0-0-f8e56d713bf81af226bae8057d9a1bad
-五峰综合,https://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
-宜都综合,https://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1735660799-0-0-f29f0d99f876e49e55132b30d52133db
-枝江综合,https://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
+
 大悟综合,https://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1735660799-0-0-b1bf1625df01ea7dabc97bf7aa7f253d
 孝昌新闻,https://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1735660799-0-0-886396e7a9ce6f90ecdbfdf669624539
 应城新闻,https://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1735660799-0-0-b43106dd66cd5d9c827699f0b0204306
@@ -405,18 +406,18 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 广水新闻,https://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1735660799-0-0-c7c7082aa48ecb78ed13d8a4a9b45acc
 谷城综合,https://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1735660799-0-0-54db49cb2f7940e29d9dfceb9747b0af
 
+武汉江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8
+
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 
-十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 湘潭新闻,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 孝感公共,http://live.yingxi.tv/channel1/sd/live.m3u8
 
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 
-江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8
 
 恩施综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
 恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
@@ -577,9 +578,8 @@ BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/10000000010000
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 山东枣庄,http://stream.zztvzd.com/3/sd/live.m3u8
 兵团五师双河影视,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
@@ -593,14 +593,13 @@ CCTV 4K超高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122673
 CCTV 4K超高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226766/.m3u8
 CCTV第一剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226736/.m3u8
 CCTV怀旧剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226710/.m3u8
-CCTV高尔夫.网球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226742/.m3u8
+CCTV世界地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/.m3u8
+CCTV兵器科技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/.m3u8
 CCTV风云音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226713/.m3u8
 CCTV央视台球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226716/.m3u8
 CCTV风云足球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226719/.m3u8
-CCTV风云音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226713/.m3u8
-CCTV世界地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/.m3u8
-CCTV兵器科技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/.m3u8
 CCTV女性时尚,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226730/.m3u8
+CCTV高尔夫.网球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226742/.m3u8
 
 动漫卡通等,#genre#
 BRTV少儿,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/.m3u8
