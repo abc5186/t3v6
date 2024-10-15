@@ -313,7 +313,6 @@ CCTV5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/
 黑龙江台,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226142/index.m3u8
 黑龙江台,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010222/1.m3u8
 黑龙江台,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/
-黑龙江台,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 
 吉林卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226440/index.m3u8
 吉林卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031117/1.m3u8
@@ -560,7 +559,7 @@ BRTV北京卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122669
 BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/1.m3u8
 BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/1.m3u8
 BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028380/1.m3u8
-纪实人文,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+
 湖南金鹰纪实,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226666/.m3u8
 湖南茶频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226679/.m3u8
 
@@ -575,13 +574,8 @@ BRTV纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/10000000010000
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 黑龙江影视,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225973/main.m3u8
-哈尔滨影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-哈尔滨综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
-
 兵团五师双河影视,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
 兵团十二师综合,https://liveout.btzx.com.cn/62ds9e/454mm6.m3u8
-
-山东枣庄,http://stream.zztvzd.com/3/sd/live.m3u8
 
 CHC等频道,#genre#
 CHC动作电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/.m3u8
