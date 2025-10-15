@@ -18,25 +18,6 @@ CCTV16,http://api.itv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV17,http://api.itv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 CCTV5+,http://api.itv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 
-CCTV1,https://iptv.catvod.com/live.php?id=101
-CCTV2,https://iptv.catvod.com/live.php?id=801
-CCTV3,https://iptv.catvod.com/live.php?id=103
-CCTV4,https://iptv.catvod.com/live.php?id=39
-CCTV5,https://iptv.catvod.com/live.php?id=105
-CCTV6,https://iptv.catvod.com/live.php?id=12
-CCTV7,https://iptv.catvod.com/live.php?id=802
-CCTV8,https://iptv.catvod.com/live.php?id=118
-CCTV9,https://iptv.catvod.com/live.php?id=803
-CCTV10,https://iptv.catvod.com/live.php?id=804
-CCTV11,https://iptv.catvod.com/live.php?id=55
-CCTV12,https://iptv.catvod.com/live.php?id=805
-CCTV13,https://iptv.catvod.com/live.php?id=5
-CCTV14,https://iptv.catvod.com/live.php?id=806
-CCTV15,https://iptv.catvod.com/live.php?id=70
-CCTV16,https://iptv.catvod.com/live.php?id=122
-CCTV17,https://iptv.catvod.com/live.php?id=817
-CCTV5+,https://iptv.catvod.com/live.php?id=107
-
 
 卫视频道,#genre#
 北京卫视,http://api.itv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
@@ -50,7 +31,7 @@ CCTV5+,https://iptv.catvod.com/live.php?id=107
 东南卫视,http://api.itv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 吉林卫视,http://api.itv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
 辽宁卫视,http://api.itv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
-黑龙江卫视,http://api.itv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
+黑龙江台,http://api.itv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
 山东卫视,http://api.itv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
 山西卫视,http://api.itv.itv888.cn:8080/hls/8c66y3d5kp8/index.m3u8
 安徽卫视,http://api.itv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
@@ -71,39 +52,12 @@ CCTV5+,https://iptv.catvod.com/live.php?id=107
 内蒙卫视,http://api.itv.itv888.cn:8080/hls/t4wf5047i/index.m3u8
 兵团卫视,http://api.itv.itv888.cn:8080/hls/nbzfa7gljzp/index.m3u8
 
-北京卫视,https://iptv.catvod.com/live.php?id=110
-天津卫视,https://iptv.catvod.com/live.php?id=119
-东方卫视,https://iptv.catvod.com/live.php?id=115
-重庆卫视,https://iptv.catvod.com/live.php?id=809
-江苏卫视,https://iptv.catvod.com/live.php?id=112
-浙江卫视,https://iptv.catvod.com/live.php?id=113
-广东卫视,https://iptv.catvod.com/live.php?id=114
-深圳卫视,https://iptv.catvod.com/live.php?id=109
-东南卫视,https://iptv.catvod.com/live.php?id=77
-河南卫视,https://iptv.catvod.com/live.php?id=79
-山东卫视,https://iptv.catvod.com/live.php?id=117
-安徽卫视,https://iptv.catvod.com/live.php?id=807
-湖南卫视,https://iptv.catvod.com/live.php?id=111
-湖北卫视,https://iptv.catvod.com/live.php?id=120
-吉林卫视,https://iptv.catvod.com/live.php?id=208
-辽宁卫视,https://iptv.catvod.com/live.php?id=808
-黑龙江卫视,https://iptv.catvod.com/live.php?id=121
-云南卫视,https://iptv.catvod.com/live.php?id=136
-贵州卫视,https://iptv.catvod.com/live.php?id=138
-山西卫视,https://iptv.catvod.com/live.php?id=201
-江西卫视,https://iptv.catvod.com/live.php?id=202
-四川卫视,https://iptv.catvod.com/live.php?id=83
-广西卫视,https://iptv.catvod.com/live.php?id=207
-海南卫视,https://iptv.catvod.com/live.php?id=206
-甘肃卫视,https://iptv.catvod.com/live.php?id=209
-陕西卫视,https://iptv.catvod.com/live.php?id=555
-青海卫视,https://iptv.catvod.com/live.php?id=204
-内蒙卫视,https://iptv.catvod.com/live.php?id=217
-西藏卫视,https://iptv.catvod.com/live.php?id=215
-新疆卫视,https://iptv.catvod.com/live.php?id=216
-康巴卫视,https://iptv.catvod.com/live.php?id=3494
-山东教育,https://iptv.catvod.com/live.php?id=4002
-兵团卫视,https://iptv.catvod.com/live.php?id=4003
+新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
+河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
+河北卫视,https://cc06.tv12.xyz/51.m3u8
+西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
+西藏卫视,https://cc06.tv12.xyz/112.m3u8
+
 
 湖北频道,#genre#
 宜昌综合频道,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
@@ -121,6 +75,7 @@ CCTV5+,https://iptv.catvod.com/live.php?id=107
 当阳电视台,https://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-68ad690365557a3ecc64c751a1b02f4a
 武汉江夏综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 
+
 浙江频道,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -135,10 +90,6 @@ CCTV5+,https://iptv.catvod.com/live.php?id=107
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 
-2025.10.15,#genre#
-CHC动作电影,https://iptv.catvod.com/live.php?id=3416
-CHC影迷电影,https://iptv.catvod.com/live.php?id=3418
-CHC家庭影院,https://iptv.catvod.com/live.php?id=3419
-重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
-
-
+🕘️更新时间,#genre#
+2025.10.15刀郎经典,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
+刘德华十年演唱会,http://em.21dtv.com/songs/60038982.mkv
