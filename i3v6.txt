@@ -92,4 +92,3 @@ CCTV5+,http://api.itv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 
 🕘️更新时间,#genre#
 2025.10.15刀郎经典,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
-刘德华十年演唱会,http://em.21dtv.com/songs/60038982.mkv
